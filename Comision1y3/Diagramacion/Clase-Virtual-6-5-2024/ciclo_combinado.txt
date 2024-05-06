@@ -1,0 +1,56 @@
+RESOLUCION DE PROBLEMAS
+
+
+A- COMPRENSION DE LO QUE SE LEE
+
+
+
+
+
+B - INGRESO DE DATOS/REGISTROS
+
+1 ¿Son muchos datos/registros?
+
+SI--> CICLO
+
+NO--> NO HAY CICLO
+
+
+
+2 ¿Conozco la cantidad de datos/registros?
+
+SI--> FOR
+
+NO--> WHILE  --> ¿COMO SALGO DEL CICLO? Lo tiene que decir el enunciado (por ejemplo con un 0)
+
+
+
+
+3 ¿Los datos/registros están agrupados?
+
+NO --> SOLO HAY UN UNICO CICLO 
+
+SI --> DOS CICLOS
+
+
+
+4 ¿Conoces el tamaño de ese AGRUPAMIENTO?
+
+NO --> WHILE -- ¿Como salgo del segundo WHILE? -- 
+
+	SI LO DICE --- > Usas ese dato para salir del WHILE (por ejemplo con un 0)
+	
+	NO LO DICE ----> CORTE DE CONTROL -- > CON UN REGISTRO [dato agrupado] DIFERENTE AL ANTERIOR [dato agrupado] 
+
+
+
+SI --> FOR
+
+
+
+C - QUE PROCESOS DEBO REALIZAR
+
+D - QUE INFORMACION DEBO MOSTRAR
+
+
+
